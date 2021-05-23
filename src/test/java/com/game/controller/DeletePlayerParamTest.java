@@ -7,7 +7,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-public class DeletePlayerTest extends AbstractTest {
+public class DeletePlayerParamTest extends AbstractTest {
 
     //test1
     @Test

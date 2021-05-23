@@ -13,7 +13,7 @@ import static org.springframework.test.util.AssertionErrors.assertEquals;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-public class CreatePlayerTest extends AbstractTest {
+public class CreatePlayerParamTest extends AbstractTest {
 
     //test1
     @Test
